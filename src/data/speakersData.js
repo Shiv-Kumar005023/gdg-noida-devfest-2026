@@ -1,0 +1,80 @@
+export const speakersData = [
+  {
+    id: 1,
+    name: 'Dr. Aanya Sharma',
+    role: 'Lead AI Engineer',
+    company: 'NeuralTech Labs',
+    topic: 'Building Multimodal AI Agents with Gemini & Vector DBs',
+    track: 'AI & Machine Learning',
+    accentColor: '#4285F4',
+    avatar: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80',
+    twitter: '#',
+    github: '#',
+    linkedin: '#'
+  },
+  {
+    id: 2,
+    name: 'Rohan Verma',
+    role: 'Staff Web Architect',
+    company: 'EdgeScale Systems',
+    topic: 'Sub-100ms Web Core Vitals: Modern Micro-frontends & WASM',
+    track: 'Web Architecture',
+    accentColor: '#EA4335',
+    avatar: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80',
+    twitter: '#',
+    github: '#',
+    linkedin: '#'
+  },
+  {
+    id: 3,
+    name: 'Priya Sundaram',
+    role: 'Principal Cloud Architect',
+    company: 'CloudNative Global',
+    topic: 'Zero-Trust Kubernetes Security on GCP Infrastructure',
+    track: 'Cloud & Infrastructure',
+    accentColor: '#34A853',
+    avatar: 'https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=400&q=80',
+    twitter: '#',
+    github: '#',
+    linkedin: '#'
+  },
+  {
+    id: 4,
+    name: 'Kabir Mehta',
+    role: 'Android Tech Lead',
+    company: 'MobileX Solutions',
+    topic: 'Jetpack Compose 2026: Dynamic Graphics & Animation Pipelines',
+    track: 'Android & Mobile',
+    accentColor: '#FBBC05',
+    avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80',
+    twitter: '#',
+    github: '#',
+    linkedin: '#'
+  },
+  {
+    id: 5,
+    name: 'Neha Kapoor',
+    role: 'Senior Developer Advocate',
+    company: 'DevFlow Inc.',
+    topic: 'Firebase Genkit & Serverless LLM Function Workflows',
+    track: 'Firebase & App Backend',
+    accentColor: '#FF6D00',
+    avatar: 'https://images.unsplash.com/photo-1567532939604-b6b5b0db2604?auto=format&fit=crop&w=400&q=80',
+    twitter: '#',
+    github: '#',
+    linkedin: '#'
+  },
+  {
+    id: 6,
+    name: 'Vikram Joshi',
+    role: 'Head of Developer Experience',
+    company: 'CoreTools Studio',
+    topic: 'The Future of AI-Powered CLI & Codebase Automation',
+    track: 'Developer Experience',
+    accentColor: '#A142F4',
+    avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80',
+    twitter: '#',
+    github: '#',
+    linkedin: '#'
+  }
+];
